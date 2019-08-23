@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "typescript": "^3.5.3",
-    "uuid": "^3.3.3"
+    "uuid": "^3.3.3",
+    "zero-fill": "^2.2.3"
   },
   "devDependencies": {
     "@types/node": "^12.7.2",
